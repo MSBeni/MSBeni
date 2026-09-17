@@ -1,4 +1,4 @@
-Lead AI Engineer building production LLM systems: retrieval, agents, evaluation, and multi-provider routing.
-Ph.D. (Concordia) in multi-agent reinforcement learning.
-Currently: RAG and agentic learning experiences in production · Previously: data and ML platforms at Cisco.
-Publications: Google Scholar · LinkedIn: linkedin.com/in/moesalimi
+- Lead AI Engineer building production LLM systems: retrieval, agents, evaluation, and multi-provider routing.
+- Ph.D. (Concordia) in multi-agent reinforcement learning.
+- Currently: RAG and agentic learning experiences in production · Previously: data and ML platforms at Cisco.
+- Publications: Google Scholar · LinkedIn: linkedin.com/in/moesalimi
